@@ -1,0 +1,826 @@
+[
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100015,
+    "Nome_Município": "Alta Floresta D'Oeste",
+    "Nome_Distrito": "Alta Floresta D'Oeste",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100015,
+    "Nome_Município": "Alta Floresta D'Oeste",
+    "Nome_Distrito": "Filadélfia d'Oeste",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100015,
+    "Nome_Município": "Alta Floresta D'Oeste",
+    "Nome_Distrito": "Izidolândia",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100015,
+    "Nome_Município": "Alta Floresta D'Oeste",
+    "Nome_Distrito": "Nova Gease d'Oeste",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100015,
+    "Nome_Município": "Alta Floresta D'Oeste",
+    "Nome_Distrito": "Rolim de Moura do Guaporé",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100015,
+    "Nome_Município": "Alta Floresta D'Oeste",
+    "Nome_Distrito": "Santo Antônio d'Oeste",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100379,
+    "Nome_Município": "Alto Alegre dos Parecis",
+    "Nome_Distrito": "Alto Alegre dos Parecis",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100403,
+    "Nome_Município": "Alto Paraíso",
+    "Nome_Distrito": "Alto Paraíso",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100346,
+    "Nome_Município": "Alvorada D'Oeste",
+    "Nome_Distrito": "Alvorada D'Oeste",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100346,
+    "Nome_Município": "Alvorada D'Oeste",
+    "Nome_Distrito": "Tancredópolis",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100346,
+    "Nome_Município": "Alvorada D'Oeste",
+    "Nome_Distrito": "Terra Boa",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100023,
+    "Nome_Município": "Ariquemes",
+    "Nome_Distrito": "Ariquemes",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100452,
+    "Nome_Município": "Buritis",
+    "Nome_Distrito": "Buritis",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100031,
+    "Nome_Município": "Cabixi",
+    "Nome_Distrito": "Cabixi",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100601,
+    "Nome_Município": "Cacaulândia",
+    "Nome_Distrito": "Cacaulândia",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100049,
+    "Nome_Município": "Cacoal",
+    "Nome_Distrito": "Cacoal",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100049,
+    "Nome_Município": "Cacoal",
+    "Nome_Distrito": "Riozinho",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100049,
+    "Nome_Município": "Cacoal",
+    "Nome_Distrito": "Divinópolis",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100700,
+    "Nome_Município": "Campo Novo de Rondônia",
+    "Nome_Distrito": "Campo Novo de Rondônia",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100809,
+    "Nome_Município": "Candeias do Jamari",
+    "Nome_Distrito": "Candeias do Jamari",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100809,
+    "Nome_Município": "Candeias do Jamari",
+    "Nome_Distrito": "Rio Preto do Candeias",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100908,
+    "Nome_Município": "Castanheiras",
+    "Nome_Distrito": "Castanheiras",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100056,
+    "Nome_Município": "Cerejeiras",
+    "Nome_Distrito": "Cerejeiras",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100924,
+    "Nome_Município": "Chupinguaia",
+    "Nome_Distrito": "Chupinguaia",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100064,
+    "Nome_Município": "Colorado do Oeste",
+    "Nome_Distrito": "Colorado do Oeste",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100072,
+    "Nome_Município": "Corumbiara",
+    "Nome_Distrito": "Corumbiara",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100080,
+    "Nome_Município": "Costa Marques",
+    "Nome_Distrito": "Costa Marques",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100080,
+    "Nome_Município": "Costa Marques",
+    "Nome_Distrito": "Príncipe da Beira",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100940,
+    "Nome_Município": "Cujubim",
+    "Nome_Distrito": "Cujubim",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100098,
+    "Nome_Município": "Espigão D'Oeste",
+    "Nome_Distrito": "Espigão D'Oeste",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100098,
+    "Nome_Município": "Espigão D'Oeste",
+    "Nome_Distrito": "Boa Vista do Pacarana",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100098,
+    "Nome_Município": "Espigão D'Oeste",
+    "Nome_Distrito": "Novo Paraíso",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100098,
+    "Nome_Município": "Espigão D'Oeste",
+    "Nome_Distrito": "Flor da Serra",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100098,
+    "Nome_Município": "Espigão D'Oeste",
+    "Nome_Distrito": "Nova Esperança",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1101005,
+    "Nome_Município": "Governador Jorge Teixeira",
+    "Nome_Distrito": "Governador Jorge Teixeira",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1101005,
+    "Nome_Município": "Governador Jorge Teixeira",
+    "Nome_Distrito": "Colina Verde",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100106,
+    "Nome_Município": "Guajará-Mirim",
+    "Nome_Distrito": "Guajará-Mirim",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100106,
+    "Nome_Município": "Guajará-Mirim",
+    "Nome_Distrito": "Iata",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100106,
+    "Nome_Município": "Guajará-Mirim",
+    "Nome_Distrito": "Surpresa",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1101104,
+    "Nome_Município": "Itapuã do Oeste",
+    "Nome_Distrito": "Itapuã do Oeste",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100114,
+    "Nome_Município": "Jaru",
+    "Nome_Distrito": "Jaru",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100114,
+    "Nome_Município": "Jaru",
+    "Nome_Distrito": "Bom Jesus",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100114,
+    "Nome_Município": "Jaru",
+    "Nome_Distrito": "Santa Cruz da Serra",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100114,
+    "Nome_Município": "Jaru",
+    "Nome_Distrito": "Tarilândia",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100122,
+    "Nome_Município": "Ji-Paraná",
+    "Nome_Distrito": "Ji-Paraná",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100122,
+    "Nome_Município": "Ji-Paraná",
+    "Nome_Distrito": "Nova Colina",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100122,
+    "Nome_Município": "Ji-Paraná",
+    "Nome_Distrito": "Nova Londrina",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100130,
+    "Nome_Município": "Machadinho D'Oeste",
+    "Nome_Distrito": "Machadinho D'Oeste",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100130,
+    "Nome_Município": "Machadinho D'Oeste",
+    "Nome_Distrito": "Oriente Novo",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100130,
+    "Nome_Município": "Machadinho D'Oeste",
+    "Nome_Distrito": "Quinto BEC",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100130,
+    "Nome_Município": "Machadinho D'Oeste",
+    "Nome_Distrito": "Tabajara",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1101203,
+    "Nome_Município": "Ministro Andreazza",
+    "Nome_Distrito": "Ministro Andreazza",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1101302,
+    "Nome_Município": "Mirante da Serra",
+    "Nome_Distrito": "Mirante da Serra",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1101401,
+    "Nome_Município": "Monte Negro",
+    "Nome_Distrito": "Monte Negro",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100148,
+    "Nome_Município": "Nova Brasilândia D'Oeste",
+    "Nome_Distrito": "Nova Brasilândia D'Oeste",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100338,
+    "Nome_Município": "Nova Mamoré",
+    "Nome_Distrito": "Nova Mamoré",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100338,
+    "Nome_Município": "Nova Mamoré",
+    "Nome_Distrito": "Araras",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100338,
+    "Nome_Município": "Nova Mamoré",
+    "Nome_Distrito": "Jacynópolis",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100338,
+    "Nome_Município": "Nova Mamoré",
+    "Nome_Distrito": "Nova Dimensão",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100338,
+    "Nome_Município": "Nova Mamoré",
+    "Nome_Distrito": "Palmeiras",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1101435,
+    "Nome_Município": "Nova União",
+    "Nome_Distrito": "Nova União",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100502,
+    "Nome_Município": "Novo Horizonte do Oeste",
+    "Nome_Distrito": "Novo Horizonte do Oeste",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100502,
+    "Nome_Município": "Novo Horizonte do Oeste",
+    "Nome_Distrito": "Migrantinópolis",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100155,
+    "Nome_Município": "Ouro Preto do Oeste",
+    "Nome_Distrito": "Ouro Preto do Oeste",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100155,
+    "Nome_Município": "Ouro Preto do Oeste",
+    "Nome_Distrito": "Rondominas",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1101450,
+    "Nome_Município": "Parecis",
+    "Nome_Distrito": "Parecis",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100189,
+    "Nome_Município": "Pimenta Bueno",
+    "Nome_Distrito": "Pimenta Bueno",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100189,
+    "Nome_Município": "Pimenta Bueno",
+    "Nome_Distrito": "Marco Rondon",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100189,
+    "Nome_Município": "Pimenta Bueno",
+    "Nome_Distrito": "Itaporanga",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1101468,
+    "Nome_Município": "Pimenteiras do Oeste",
+    "Nome_Distrito": "Pimenteiras do Oeste",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100205,
+    "Nome_Município": "Porto Velho",
+    "Nome_Distrito": "Porto Velho",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100205,
+    "Nome_Município": "Porto Velho",
+    "Nome_Distrito": "Abunã",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100205,
+    "Nome_Município": "Porto Velho",
+    "Nome_Distrito": "Calama",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100205,
+    "Nome_Município": "Porto Velho",
+    "Nome_Distrito": "Demarcação",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100205,
+    "Nome_Município": "Porto Velho",
+    "Nome_Distrito": "Extrema",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100205,
+    "Nome_Município": "Porto Velho",
+    "Nome_Distrito": "Fortaleza do Abunã",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100205,
+    "Nome_Município": "Porto Velho",
+    "Nome_Distrito": "Jaci Paraná",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100205,
+    "Nome_Município": "Porto Velho",
+    "Nome_Distrito": "Mutum Paraná",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100205,
+    "Nome_Município": "Porto Velho",
+    "Nome_Distrito": "Nazaré",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100205,
+    "Nome_Município": "Porto Velho",
+    "Nome_Distrito": "Nova Califórnia",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100205,
+    "Nome_Município": "Porto Velho",
+    "Nome_Distrito": "São Carlos",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100205,
+    "Nome_Município": "Porto Velho",
+    "Nome_Distrito": "Vista Alegre do Abunã",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100254,
+    "Nome_Município": "Presidente Médici",
+    "Nome_Distrito": "Presidente Médici",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100254,
+    "Nome_Município": "Presidente Médici",
+    "Nome_Distrito": "Estrela de Rondônia",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100254,
+    "Nome_Município": "Presidente Médici",
+    "Nome_Distrito": "Novo Riachuelo",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100254,
+    "Nome_Município": "Presidente Médici",
+    "Nome_Distrito": "Vila Bandeira Branca",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100254,
+    "Nome_Município": "Presidente Médici",
+    "Nome_Distrito": "Vila Camargo",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1101476,
+    "Nome_Município": "Primavera de Rondônia",
+    "Nome_Distrito": "Primavera de Rondônia",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100262,
+    "Nome_Município": "Rio Crespo",
+    "Nome_Distrito": "Rio Crespo",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100288,
+    "Nome_Município": "Rolim de Moura",
+    "Nome_Distrito": "Rolim de Moura",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100296,
+    "Nome_Município": "Santa Luzia D'Oeste",
+    "Nome_Distrito": "Santa Luzia D'Oeste",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1101484,
+    "Nome_Município": "São Felipe D'Oeste",
+    "Nome_Distrito": "São Felipe D'Oeste",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1101492,
+    "Nome_Município": "São Francisco do Guaporé",
+    "Nome_Distrito": "São Francisco do Guaporé",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1101492,
+    "Nome_Município": "São Francisco do Guaporé",
+    "Nome_Distrito": "Porto Murtinho",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100320,
+    "Nome_Município": "São Miguel do Guaporé",
+    "Nome_Distrito": "São Miguel do Guaporé",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100320,
+    "Nome_Município": "São Miguel do Guaporé",
+    "Nome_Distrito": "Santana do Guaporé",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1101500,
+    "Nome_Município": "Seringueiras",
+    "Nome_Distrito": "Seringueiras",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1101559,
+    "Nome_Município": "Teixeirópolis",
+    "Nome_Distrito": "Teixeirópolis",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1101609,
+    "Nome_Município": "Theobroma",
+    "Nome_Distrito": "Theobroma",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1101708,
+    "Nome_Município": "Urupá",
+    "Nome_Distrito": "Urupá",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1101757,
+    "Nome_Município": "Vale do Anari",
+    "Nome_Distrito": "Vale do Anari",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1101807,
+    "Nome_Município": "Vale do Paraíso",
+    "Nome_Distrito": "Vale do Paraíso",
+    "valor": 1
+  },
+  {
+    "UF": 11,
+    "Nome_UF": "Rondônia",
+    "Código Município Completo": 1100304,
+    "Nome_Município": "Vilhena",
+    "Nome_Distrito": "Vilhena",
+    "valor": 1
+  }
+]
