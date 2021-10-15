@@ -1,0 +1,254 @@
+[
+   {
+      "﻿Codigo_NCM": 2023000,
+      "Descricao_NCM": "Carnes desossadas de bovino  congeladas",
+      "Paises": "China",
+      "valor": 163633468,
+      "Quilograma_Liquido": 30314737
+   },
+   {
+      "﻿Codigo_NCM": 12019000,
+      "Descricao_NCM": "Soja  mesmo triturada  exceto para semeadura",
+      "Paises": "México",
+      "valor": 63202479,
+      "Quilograma_Liquido": 132927261
+   },
+   {
+      "﻿Codigo_NCM": 26159000,
+      "Descricao_NCM": "Minérios de nióbio  tântalo ou vanádio  seus concentrados",
+      "Paises": "China",
+      "valor": 6890087,
+      "Quilograma_Liquido": 573456
+   },
+   {
+      "﻿Codigo_NCM": 12019000,
+      "Descricao_NCM": "Soja  mesmo triturada  exceto para semeadura",
+      "Paises": "Rússia",
+      "valor": 5076146,
+      "Quilograma_Liquido": 9653574
+   },
+   {
+      "﻿Codigo_NCM": 52010020,
+      "Descricao_NCM": "Algodão não cardado nem penteado  simplesmente debulhado",
+      "Paises": "China",
+      "valor": 4306757,
+      "Quilograma_Liquido": 2759026
+   },
+   {
+      "﻿Codigo_NCM": 26070000,
+      "Descricao_NCM": "Minérios de chumbo e seus concentrados",
+      "Paises": "China",
+      "valor": 3690786,
+      "Quilograma_Liquido": 3220804
+   },
+   {
+      "﻿Codigo_NCM": 2023000,
+      "Descricao_NCM": "Carnes desossadas de bovino  congeladas",
+      "Paises": "Rússia",
+      "valor": 3316073,
+      "Quilograma_Liquido": 789090
+   },
+   {
+      "﻿Codigo_NCM": 26080090,
+      "Descricao_NCM": "Outros minérios de zinco e seus concentrados",
+      "Paises": "China",
+      "valor": 3257131,
+      "Quilograma_Liquido": 3009292
+   },
+   {
+      "﻿Codigo_NCM": 26140010,
+      "Descricao_NCM": "Ilmenita (minérios de titânio)",
+      "Paises": "China",
+      "valor": 2885371,
+      "Quilograma_Liquido": 30048445
+   },
+   {
+      "﻿Codigo_NCM": 10059010,
+      "Descricao_NCM": "Milho em grão  exceto para semeadura",
+      "Paises": "México",
+      "valor": 2787020,
+      "Quilograma_Liquido": 10600000
+   },
+   {
+      "﻿Codigo_NCM": 44170090,
+      "Descricao_NCM": "Armações e cabos  de ferramentas  de escovas e de vassouras  de madeira",
+      "Paises": "México",
+      "valor": 2005166,
+      "Quilograma_Liquido": 1660202
+   },
+   {
+      "﻿Codigo_NCM": 44072990,
+      "Descricao_NCM": "Outras madeiras tropicais serrada ou fendida longitudinalmente  cortada transversalmente ou desenrolada  mesmo aplainada  lixada ou unida pelas extremidades  de espessura superior a 6 mm",
+      "Paises": "China",
+      "valor": 1150858,
+      "Quilograma_Liquido": 2011188
+   },
+   {
+      "﻿Codigo_NCM": 44039900,
+      "Descricao_NCM": "Outras madeiras em bruto  mesmo descascada  desalburnada ou esquadriada",
+      "Paises": "Índia",
+      "valor": 681110,
+      "Quilograma_Liquido": 3611441
+   },
+   {
+      "﻿Codigo_NCM": 44072910,
+      "Descricao_NCM": "Madeira de cedro  serrada ou fendida longitudinalmente  cortada transversalmente ou desenrolada  mesmo aplainada  lixada ou unida pelas extremidades  de espessura superior a 6 mm",
+      "Paises": "China",
+      "valor": 451933,
+      "Quilograma_Liquido": 335031
+   },
+   {
+      "﻿Codigo_NCM": 12019000,
+      "Descricao_NCM": "Soja  mesmo triturada  exceto para semeadura",
+      "Paises": "China",
+      "valor": 434489,
+      "Quilograma_Liquido": 1340000
+   },
+   {
+      "﻿Codigo_NCM": 26090000,
+      "Descricao_NCM": "Minérios de estanho e seus concentrados",
+      "Paises": "China",
+      "valor": 395701,
+      "Quilograma_Liquido": 272066
+   },
+   {
+      "﻿Codigo_NCM": 15021011,
+      "Descricao_NCM": "Sebo bovino  em bruto",
+      "Paises": "China",
+      "valor": 342142,
+      "Quilograma_Liquido": 47065
+   },
+   {
+      "﻿Codigo_NCM": 44034900,
+      "Descricao_NCM": "Outras madeiras tropicais em bruto  mesmo descascada  desalburnada ou esquadriada",
+      "Paises": "Índia",
+      "valor": 334019,
+      "Quilograma_Liquido": 1305696
+   },
+   {
+      "﻿Codigo_NCM": 22042100,
+      "Descricao_NCM": "Outros vinhos  mostos de uvas  fermentados  impedidos álcool  em recipientes de capacidade não superior a 2 litros",
+      "Paises": "Rússia",
+      "valor": 246059,
+      "Quilograma_Liquido": 143055
+   },
+   {
+      "﻿Codigo_NCM": 2062200,
+      "Descricao_NCM": "Fígados de bovino  congelados",
+      "Paises": "Rússia",
+      "valor": 191685,
+      "Quilograma_Liquido": 120997
+   },
+   {
+      "﻿Codigo_NCM": 44092200,
+      "Descricao_NCM": "Madeiras tropicais perfilada (com espigas  ranhuras  filetes  entalhes  chanfrada  com juntas em V  com cercadura  boleada ou semelhantes) ao longo de uma ou mais bordas  faces ou extremidades  mesmo aplainada  lixada ou unida pelas extremidades",
+      "Paises": "China",
+      "valor": 160809,
+      "Quilograma_Liquido": 333586
+   },
+   {
+      "﻿Codigo_NCM": 72044900,
+      "Descricao_NCM": "Outros desperdícios e resíduos de ferro ou aço",
+      "Paises": "Índia",
+      "valor": 154193,
+      "Quilograma_Liquido": 438980
+   },
+   {
+      "﻿Codigo_NCM": 44079990,
+      "Descricao_NCM": "Outra madeira serrada ou fendida longitudinalmente  cortada transversalmente ou desenrolada  mesmo aplainada  lixada ou unida pelas extremidades  de espessura superior a 6 mm",
+      "Paises": "China",
+      "valor": 115642,
+      "Quilograma_Liquido": 220177
+   },
+   {
+      "﻿Codigo_NCM": 44092900,
+      "Descricao_NCM": "Outras madeiras de não coníferas perfilada (com espigas  ranhuras  filetes  entalhes  chanfrada  com juntas em V  com cercadura  boleada ou semelhantes) ao longo de uma ou mais bordas  faces ou extremidades  mesmo aplainada  lixada ou unida pelas extremid",
+      "Paises": "China",
+      "valor": 93802,
+      "Quilograma_Liquido": 129300
+   },
+   {
+      "﻿Codigo_NCM": 5040011,
+      "Descricao_NCM": "Tripas de bovinos  frescos  refrigerados  congelados  salgados ou em salmoura  secos ou defumados",
+      "Paises": "China",
+      "valor": 69435,
+      "Quilograma_Liquido": 19124
+   },
+   {
+      "﻿Codigo_NCM": 44072990,
+      "Descricao_NCM": "Outras madeiras tropicais serrada ou fendida longitudinalmente  cortada transversalmente ou desenrolada  mesmo aplainada  lixada ou unida pelas extremidades  de espessura superior a 6 mm",
+      "Paises": "África do Sul",
+      "valor": 64233,
+      "Quilograma_Liquido": 113101
+   },
+   {
+      "﻿Codigo_NCM": 15021019,
+      "Descricao_NCM": "Outros sebos bovinos",
+      "Paises": "África do Sul",
+      "valor": 39145,
+      "Quilograma_Liquido": 27726
+   },
+   {
+      "﻿Codigo_NCM": 44092200,
+      "Descricao_NCM": "Madeiras tropicais perfilada (com espigas  ranhuras  filetes  entalhes  chanfrada  com juntas em V  com cercadura  boleada ou semelhantes) ao longo de uma ou mais bordas  faces ou extremidades  mesmo aplainada  lixada ou unida pelas extremidades",
+      "Paises": "Rússia",
+      "valor": 37552,
+      "Quilograma_Liquido": 24500
+   },
+   {
+      "﻿Codigo_NCM": 44072920,
+      "Descricao_NCM": "Madeira de ipê  serrada ou fendida longitudinalmente  cortada transversalmente ou desenrolada  mesmo aplainada  lixada ou unida pelas extremidades  de espessura superior a 6 mm",
+      "Paises": "China",
+      "valor": 24426,
+      "Quilograma_Liquido": 65000
+   },
+   {
+      "﻿Codigo_NCM": 2062990,
+      "Descricao_NCM": "Outras miudezas comestíveis de bovino  congeladas",
+      "Paises": "China",
+      "valor": 23610,
+      "Quilograma_Liquido": 8730
+   },
+   {
+      "﻿Codigo_NCM": 71031000,
+      "Descricao_NCM": "Pedras preciosas (exceto diamantes) ou semipreciosas  em bruto ou simplesmente serradas ou desbastadas",
+      "Paises": "Índia",
+      "valor": 17825,
+      "Quilograma_Liquido": 204
+   },
+   {
+      "﻿Codigo_NCM": 44129900,
+      "Descricao_NCM": "Outras madeiras compensadas  folheadas ou estratificadas",
+      "Paises": "África do Sul",
+      "valor": 15520,
+      "Quilograma_Liquido": 9500
+   },
+   {
+      "﻿Codigo_NCM": 2062990,
+      "Descricao_NCM": "Outras miudezas comestíveis de bovino  congeladas",
+      "Paises": "Rússia",
+      "valor": 4818,
+      "Quilograma_Liquido": 4016
+   },
+   {
+      "﻿Codigo_NCM": 44170090,
+      "Descricao_NCM": "Armações e cabos  de ferramentas  de escovas e de vassouras  de madeira",
+      "Paises": "África do Sul",
+      "valor": 3337,
+      "Quilograma_Liquido": 1732
+   },
+   {
+      "﻿Codigo_NCM": 26020090,
+      "Descricao_NCM": "Outros minérios de manganês e seus concentrados  incluindo os minérios de manganês ferruginosos e seus concentrados  de teor em manganês de 20 % ou mais  em peso  sobre o produto seco",
+      "Paises": "Índia",
+      "valor": 369,
+      "Quilograma_Liquido": 1125856
+   },
+   {
+      "﻿Codigo_NCM": 12024200,
+      "Descricao_NCM": "Amendoins descascados  mesmo triturados",
+      "Paises": "Rússia",
+      "valor": 7,
+      "Quilograma_Liquido": 5
+   }
+]
